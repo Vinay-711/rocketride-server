@@ -1,3 +1,11 @@
+## About this fork
+
+This repository is Vinay-711’s fork of **[rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)**. The upstream authors and contributors created the project documented below. This fork’s existence does not imply original authorship, upstream maintainer status or a deployed service.
+
+For current releases, installation requirements and security guidance, consult the upstream repository. Before changing this fork, inspect `git remote -v`, compare its default branch with upstream, and read the applicable contribution and license files. Keep upstream attribution intact; document local changes separately and propose focused upstream contributions when appropriate. No independent build or security validation of this fork is claimed here.
+
+---
+
 <div align="center">
 
 <a href="https://rocketride.org">
